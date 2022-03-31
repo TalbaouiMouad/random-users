@@ -1,0 +1,9 @@
+.list-container{
+    list-style: none;
+    display: grid;
+    grid-template-columns:auto auto auto auto;
+    gap: 30px;
+    padding: 25px;
+}
+
+  
